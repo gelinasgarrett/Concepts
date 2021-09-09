@@ -1,8 +1,7 @@
 //
 //  Sorting Vector.cpp
-//  Stack & Queue Practice
 //
-//  Created by Garrett Gelinas on 9/9/21.
+//  Created by Garrett Gelinas 
 //
 
 #include "Sorting Vector.hpp"
