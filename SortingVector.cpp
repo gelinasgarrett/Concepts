@@ -1,10 +1,8 @@
 //
-//  Sorting Vector.cpp
-//
+//  sortingvector.cpp
 //  Created by Garrett Gelinas 
 //
 
-#include "Sorting Vector.hpp"
 #include <iostream>
 #include <vector>
 using namespace std;
