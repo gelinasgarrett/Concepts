@@ -1,11 +1,8 @@
 //
-//  Complex Data Type.cpp
-//  Stack & Queue Practice
-//
-//  Created by Garrett Gelinas on 9/9/21.
+//  complexdatatype.cpp
+//  Created by Garrett Gelinas
 //
 
-#include "Complex Data Type.hpp"
 #include <iostream>
 #include <vector>
 #include <map>
